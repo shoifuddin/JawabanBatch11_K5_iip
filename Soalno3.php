@@ -5,7 +5,7 @@ function cetak_gambar($batas)
 	echo "<table>";
 	$matrix=array();
 
-	echo"--- Panjang ---";
+	echo"<tr><td colspan=".$batas."><center>--- Panjang ---</center></td></tr>";
 	//membuat semua elemen matrix menjadi =
 	for ($i=1;$i<=$batas;$i++)
 	{
@@ -35,7 +35,7 @@ function cetak_gambar($batas)
 		}
 	}
 
-	// membuat kolom tengah menjadi dua
+	// mengganti kolom tengah menjadi *
 	$tengah=round($batas/2);
 	for ($i=1;$i<=$batas;$i++)
 	{
@@ -54,7 +54,7 @@ function cetak_gambar($batas)
 		for ($j=1;$j<=$batas;$j++)
 		{
 
-						echo "<td>";
+						echo "<td width=30px>";
 						echo $matrix[$j][$i];
 						echo "</td>";
 
