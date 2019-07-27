@@ -18,26 +18,26 @@
 	(menggunakan MariDB)
 <b>
 
-<b>7.1 Halaman Utama:
+<b>6.1 Halaman Utama:
 ![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/01.%20Tampil.PNG)
 
-<b>7.2 Tambah:
+<b>6.2 Tambah:
 ![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/02.%20Tambah.PNG)
 
-<b>7.3 Input:
+<b>6.3 Input:
 ![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/03.%20Input.PNG)
 
-<b>7.4 Pop UP Tambah:
+<b>6.4 Pop UP Tambah:
 ![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/04.%20PopUP.PNG)
 
-<b>7.5 Edit:
+<b>6.5 Edit:
 ![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/05.%20Edit.PNG)
 
-<b>7.6 Poop UP Edit:
+<b>6.6 Poop UP Edit:
 ![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/06.%20PoopUPEdit.PNG)
 
-<b>7.7 Hapus:
+<b>6.7 Hapus:
 ![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/07.%20Hapus.PNG)
 
-<b>7.8 Poop Up Hapus:
+<b>6.8 Poop Up Hapus:
 ![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch11_K5_iip/master/Soalno6/ScreenShoot/08.%20PoopUPHapus.PNG)
