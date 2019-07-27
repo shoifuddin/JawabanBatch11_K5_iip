@@ -9,7 +9,7 @@
 
 
 
-3. Jawaban Soal No6
+3. Jawaban Soal No6 (dijalankan dengan aplikasi xampp v3.2.3)
 
 <b>Perintah SQL
 	
